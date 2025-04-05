@@ -1,3 +1,4 @@
+package DailyChallenges;
 public class leetcode1863 {
     int result = 0;
 
